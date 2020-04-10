@@ -4,7 +4,7 @@ MAINTAINER Humble Chirammal hchiramm@redhat.com Saravanakumar Arumugam sarumuga@
 
 ENV container docker
 
-ENV ARCH "x86_64"
+ENV ARCH "aarch64"
 LABEL architecture="$ARCH" \
       name="gluster/gluster-centos" \
       version="latest" \
