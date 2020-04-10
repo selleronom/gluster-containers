@@ -1,4 +1,4 @@
-FROM arm64v8/centos:7
+FROM centos:7
 
 MAINTAINER Humble Chirammal hchiramm@redhat.com Saravanakumar Arumugam sarumuga@redhat.com
 
