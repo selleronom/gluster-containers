@@ -1,4 +1,5 @@
-FROM centos:7
+FROM scratch
+ADD centos-7-aarch64-docker.tar.xz /
 
 MAINTAINER Humble Chirammal hchiramm@redhat.com Saravanakumar Arumugam sarumuga@redhat.com
 
